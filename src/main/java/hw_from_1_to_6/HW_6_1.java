@@ -1,3 +1,5 @@
+package hw_from_1_to_6;
+
 public class HW_6_1 {
     public static void main(String[] args) {
 //    task1
