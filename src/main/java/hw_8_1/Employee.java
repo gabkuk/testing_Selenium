@@ -1,4 +1,4 @@
-package hw_8;
+package hw_8_1;
 
 public class Employee {
     //Задача №1
